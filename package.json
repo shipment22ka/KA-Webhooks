@@ -1,0 +1,26 @@
+{
+  "name": "ka-webhooks",
+  "version": "1.0.0",
+  "description": "Send webhooks of Khan Academy activity, primarily notifications, to Discord as a webhook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shipment22ka/KA-Webhooks.git"
+  },
+  "keywords": [
+    "KA",
+    "Khan",
+    "Academy",
+    "Webhook",
+    "Discord"
+  ],
+  "author": "Shipment22",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shipment22ka/KA-Webhooks/issues"
+  },
+  "homepage": "https://github.com/shipment22ka/KA-Webhooks#readme"
+}
